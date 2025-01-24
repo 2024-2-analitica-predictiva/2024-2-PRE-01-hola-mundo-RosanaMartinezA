@@ -2,7 +2,7 @@
 Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 """
 
-# pylint: disable=import-outside-toplevel
+# pylint: disable=import-outside-topleve
 
 
 def pregunta_02():
